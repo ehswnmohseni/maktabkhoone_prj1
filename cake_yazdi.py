@@ -1,5 +1,5 @@
-print
-("""Hello my name is cake yazdi
-i will be your friend 
-i will be your crush
-and i will be best!""")
+print("""My name is cake yazdi
+i`m alive!""")
+
+name = input("what`s your name\n:")
+print("Hello",name,", wlcome to my world!")
